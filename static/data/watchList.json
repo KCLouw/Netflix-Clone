@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "id": 6,
+            "name": "Mrs. Annalise Kuhic V",
+            "duration": "193",
+            "image": "https:\/\/picsum.photos\/200\/300",
+            "description": "Dolore consectetur sunt laboriosam odit libero. Qui qui quia dolor deserunt cum omnis vitae. Rem corrupti qui excepturi facilis. Vel blanditiis molestiae minima non magnam aut corrupti.",
+            "release_date": "2016-02-26",
+            "is_coming_soon": 0,
+            "rating": 8
+        },
+        {
+            "id": 49,
+            "name": "Orville Miller",
+            "duration": "189",
+            "image": "https:\/\/picsum.photos\/200\/300",
+            "description": "Atque sit aut vitae aut quia ut ad. Fuga veritatis est beatae qui sapiente. Consequatur impedit molestiae harum ea iusto. Quia assumenda eum qui.",
+            "release_date": "2022-09-29",
+            "is_coming_soon": 1,
+            "rating": 9
+        },
+        {
+            "id": 82,
+            "name": "Dr. Deontae Feeney MD",
+            "duration": "145",
+            "image": "https:\/\/picsum.photos\/200\/300",
+            "description": "Illum debitis consequatur enim expedita non neque ea. Ut soluta vel doloremque nisi. Tenetur saepe iure vero voluptatibus illo quis modi. Velit minima ea sed dolorem. Saepe ducimus in quas sit assumenda odio qui.",
+            "release_date": "2023-02-16",
+            "is_coming_soon": 1,
+            "rating": 5
+        },
+        {
+            "id": 89,
+            "name": "Ms. Era Davis",
+            "duration": "186",
+            "image": "https:\/\/picsum.photos\/200\/300",
+            "description": "Ullam repellendus vero assumenda nulla sit est. Incidunt odio eaque adipisci ut beatae. Eaque minima ut ut id.",
+            "release_date": "2022-03-16",
+            "is_coming_soon": 1,
+            "rating": 7
+        }
+    ]
+}
