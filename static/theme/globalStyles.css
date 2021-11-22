@@ -1,3 +1,19 @@
 body {
     background-color: #141414;
+    margin: 0;
+    padding-left: 15px, 2vw, 50px;
+}
+
+#scrollingList {
+    background-color: red;
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto;
+    width: 100%;
+}
+
+.mediaCard {
+    width: 250px;
+    height: 150px;
+    background-color: white;
 }
